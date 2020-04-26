@@ -9,6 +9,6 @@ public class Run {
         ThreadB b = new ThreadB(exchanger);
         a.start();
         b.start();
-        System.out.println("main end");
+        System.out.println("mOK¾Íain end");
     }
 }
